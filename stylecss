@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+}
+
+#about {
+    background-color: #e2e2e2;
+    margin: 20px;
+}
+
+#skills {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#projects .project {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#projects h3 {
+    color: #333;
+}
+
+#contact {
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 20px;
+}
